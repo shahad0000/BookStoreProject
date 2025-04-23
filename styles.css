@@ -39,7 +39,7 @@ td {
     margin: 1.3rem 3em 2em 2rem ;
 }
 
-.details-btn {
+.details-btn, .go-back {
     margin: 9em 0 0 2rem ;
     padding: 0.4em;;
     color: black;
@@ -63,4 +63,5 @@ td {
     margin: auto;
     border: 2px solid black;
     padding: 2em;
+    background-color: white;
 }
