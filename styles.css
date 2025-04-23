@@ -1,0 +1,58 @@
+
+
+.book-img {
+    width: 9em;
+    height: auto;
+}
+#page-title {
+    font-family: sans-serif;
+    font-size: 4em;
+    text-align: center;
+}
+table {
+    width: 70em;
+    margin: auto;
+    border-spacing: 1rem;
+}
+
+td {
+    border-bottom: 1px solid gray;
+}
+
+.book-title, .author, .description, .details-btn {
+    font-family: sans-serif;
+    
+}
+.book-title {
+    font-size: 2rem;
+    margin: 0 0 0 2rem ;
+}
+.author {
+    font-size: 1.4rem;
+    color: gray;
+    margin: 0.2rem 0 0 2rem ;
+}
+
+.description {
+    margin: 1.3rem 3em 2em 2rem ;
+}
+
+.details-btn {
+    margin: 9em 0 0 2rem ;
+    padding: 0.4em;;
+    color: black;
+    border: 1px solid gray;
+    background-color: rgb(239, 196, 89);
+    text-decoration: none;
+}
+.book-title-details {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 2em;
+}
+.book-details {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.3em;
+    padding: auto;
+}
